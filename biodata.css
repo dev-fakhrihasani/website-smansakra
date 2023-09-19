@@ -1,0 +1,20 @@
+.foto-profil{
+    width: 400px;
+    height: 400px;
+    border-radius: 50%;
+}
+
+/* a{
+    text-decoration: none;
+    
+} */
+
+a:hover{
+    color: red;
+}
+
+/* body{
+    background-color: aqua;
+} */
+
+
